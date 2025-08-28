@@ -1,0 +1,2 @@
+# Placeholder generated file.
+# This will be overwritten by: pip list --format=freeze | grep -vE '^(pip|setuptools|wheel)=='

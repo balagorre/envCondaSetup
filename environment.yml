@@ -1,0 +1,10 @@
+# Placeholder. Regenerate with: ./scripts/export_env.sh <your_env_name>
+# You can keep this minimal until you export from a real env.
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - # (this section will be replaced by export_env.sh)

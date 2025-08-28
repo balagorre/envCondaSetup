@@ -1,0 +1,3 @@
+# Placeholder generated file.
+# This will be overwritten by: conda list --export
+# Used by: conda create -n <env> --file conda_requirements.txt
